@@ -73,3 +73,17 @@ import pandas as pd
 # plt.annotate('Top Student',xy=(8,95),xytext=(8,80),arrowprops=dict(facecolor='red',shrink=0.10))
 # plt.grid(True)
 # plt.show()
+
+# Sample Virat Kohli stats
+# uns = [45, 67, 89, 34, 120, 76, 54, 99]
+# strike_rate = [120, 135, 142, 110, 150, 138, 125, 145]
+ # Create scatter plot
+# plt.scatter(runs, strike_rate)
+
+# Labels and title
+# plt.xlabel("Runs Scored")
+# plt.ylabel("Strike Rate")
+# plt.title("Virat Kohli Performance Scatter Plot")
+
+# Show plot
+# plt.show()

@@ -72,12 +72,53 @@
  #   print(t1[i])
   #  i += 1
 
-t1 = (10,20,30,40,50)
-print(min(t1))
-print(max(t1))
-print(len(t1))
-print(sum(t1))
+# t1 = (10,20,30,40,50)
+# print(min(t1))
+# print(max(t1))
+# print(len(t1))
+# print(sum(t1))
+
+# t2 = (20,36,11,23,45,18,7)
+# print(max(t2))
+# print(min(t2))
+# print(sum(t2))
+# print(len(t2))
+
+
+# t1 = (10,20,30)
+# l1 = list(t1)
+# l1[0] = 1000
+#tuple()- coverts list to tuple
+# t2 = tuple(l1)
+# print(t2)
+
+# t1 = ([1,2],[3,4])
+# t1[0].append(3)
+# print(t1)
+
+# list1 = [10,20,30]
+# tuple1 = (10,20,30)
+# print(sys.getsizeof(list1))
+# print(sys.getsizeof(tuple1))
+
+# def calc(num1,num2)
+#     return num1+num2, num1-num2, num1*num2, num1/num2
+
+# res = calc(200,100)
 
 
 
+
+
+
+
+
+
+# students = (
+#     (101,"std1","java"),
+#     (102,"std2","python"),
+#     (103,"std3","UI")
+# )
+# for sid,sname,sub in students:
+#     print(f"{sid} -{sname} -{sub}")
 
